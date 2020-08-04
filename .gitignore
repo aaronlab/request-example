@@ -429,3 +429,6 @@ fabric.properties
 !/gradle/wrapper/gradle-wrapper.jar
 
 # End of https://www.toptal.com/developers/gitignore/api/node,swift,kotlin,xcode,android,androidstudio
+
+
+package-lock.json
