@@ -1,0 +1,41 @@
+{
+  "name": "request-example",
+  "version": "1.0.0",
+  "description": "Node Request Example with iOS & Android",
+  "main": "init.js",
+  "scripts": {
+    "start": "nodemon --exec babel-node init.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronLab/request-example.git"
+  },
+  "keywords": [
+    "Node",
+    "Swift",
+    "Kotlin",
+    "iOS",
+    "Android"
+  ],
+  "author": "Aaron Lee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aaronLab/request-example/issues"
+  },
+  "homepage": "https://github.com/aaronLab/request-example#readme",
+  "dependencies": {
+    "@babel/core": "^7.11.0",
+    "@babel/node": "^7.10.5",
+    "@babel/preset-env": "^7.11.0",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "core-js": "^3.6.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "helmet": "^4.0.0",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
