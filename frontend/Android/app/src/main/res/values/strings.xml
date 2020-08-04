@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RequestExample</string>
+    <string name="put_something_you_want_to_send">Put something you want to send</string>
+    <string name="send">Send</string>
+</resources>
